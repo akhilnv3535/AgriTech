@@ -1,8 +1,7 @@
-pandas
+pandas==2.2.3
 numpy==2.0.2
-Flask
-scikit-learn
+scikit-learn==1.6.0
 pathlib
-uvicorn
-fastapi
-fastapi-cors
+uvicorn==0.35.0
+fastapi==0.116.0
+fastapi-cors==0.0.6
