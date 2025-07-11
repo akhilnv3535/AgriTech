@@ -1,0 +1,8 @@
+pandas
+numpy
+Flask
+scikit-learn
+pathlib
+uvicorn
+fastapi
+fastapi-cors
